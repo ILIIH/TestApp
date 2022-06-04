@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470861113241",
+    "firebase_url": "https://every-day-love-2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "every-day-love-2",
+    "storage_bucket": "every-day-love-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470861113241:android:4c7b733242de3339751508",
+        "android_client_info": {
+          "package_name": "com.example.everydaylove2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470861113241-5lof3ac91k34a57cfu9ds0dhc601f41b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNOeRyAAXfCWmToR_MqvgySIJFIPqrKVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470861113241-5lof3ac91k34a57cfu9ds0dhc601f41b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

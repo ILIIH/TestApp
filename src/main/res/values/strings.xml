@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Every day love 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="channel_name">MainNotifCanel</string>
+    <string name="channel_description">My main chalnel</string>
+    <string name="description">Назвние воспомнинания</string>
+    <string name="descriptions">Описание</string>
+    <string name="submit">Подтвердить</string>
+    <string name="add_memory">Добавте воспоминание :</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_activity_navigation"
+    app:startDestination="@id/this_day_at_history_Fragment">
+
+    <include app:graph="@navigation/game_graph" />
+
+    <fragment
+        android:id="@+id/this_day_at_history_Fragment"
+        android:name="com.example.everydaylove2.Presentation.Fragments.MemoriesFragment"
+        android:label="This_day_at_history_Fragment" />
+</navigation>
